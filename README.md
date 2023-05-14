@@ -15,3 +15,7 @@ advance the field and enhance the user experience across various applications.
 Overall, this paper provides insights into the current state and future directions
 of next word prediction using neural networks, offering a foundation for further
 advancements in this field.
+
+
+
+File:- https://drive.google.com/file/d/1xYYlyAsp11webycE4nR9BzL_EkkjzOWE/view?usp=share_link
